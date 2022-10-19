@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d57e0d3-8a70-4be7-9735-69d46106ac71" name="Changes" comment="created class PhLevelAnalyser.java">
+    <list default="true" id="6d57e0d3-8a70-4be7-9735-69d46106ac71" name="Changes" comment="initialized the Scanner">
       <change beforePath="$PROJECT_DIR$/src/main/java/PhLevelAnalyser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PhLevelAnalyser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666175568490</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added main method">
+      <created>1666175627776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666175627776</updated>
+    </task>
+    <task id="LOCAL-00005" summary="initialized the Scanner">
+      <created>1666175747696</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666175747696</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +103,8 @@
     <MESSAGE value="created project c1-s3-aquarium-water-ph-value" />
     <MESSAGE value="changed source and target JDK version from 19 to 11" />
     <MESSAGE value="created class PhLevelAnalyser.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="created class PhLevelAnalyser.java" />
+    <MESSAGE value="added main method" />
+    <MESSAGE value="initialized the Scanner" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialized the Scanner" />
   </component>
 </project>
